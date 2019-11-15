@@ -1,0 +1,13 @@
+{
+  "rules": {
+    "at-rule-empty-line-before": null,
+    "at-rule-name-space-after": "always-single-line",
+
+    "function-url-quotes": "always",
+
+    "color-hex-case": "upper",
+    "color-named": "never",
+
+    "max-empty-lines": 2
+  }
+}
